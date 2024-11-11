@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/KeyVux/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/KeyVux/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/KeyVux/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3312-number-of-changing-keys](https://github.com/KeyVux/Leetcode/tree/master/3312-number-of-changing-keys) |
 ## Two Pointers
 |  |
 | ------- |
