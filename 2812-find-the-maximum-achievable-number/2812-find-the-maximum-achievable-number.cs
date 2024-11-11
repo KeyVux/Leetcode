@@ -1,10 +1,15 @@
 public class Solution {
     public int TheMaximumAchievableX(int num, int t) {
-        while (t>0)
+
+        return num+t*2;
+
+        /*while (t>0)
         {
             num+=2;
             t--;
         }
-        return num;
+        return num;*/
+
+        
     }
 }
