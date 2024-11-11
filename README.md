@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/KeyVux/Leetcode/tree/master/0258-add-digits) |
 | [1610-xor-operation-in-an-array](https://github.com/KeyVux/Leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/KeyVux/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Bit Manipulation
 |  |
 | ------- |
