@@ -16,6 +16,7 @@ public class Solution {
 
             return "scalene";
         }
+        
         return "none";
     }
 }
