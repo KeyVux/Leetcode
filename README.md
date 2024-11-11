@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/KeyVux/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/KeyVux/Leetcode/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/KeyVux/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3321-type-of-triangle](https://github.com/KeyVux/Leetcode/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -31,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/KeyVux/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/KeyVux/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/KeyVux/Leetcode/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/KeyVux/Leetcode/tree/master/3321-type-of-triangle) |
 ## Sorting
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/KeyVux/Leetcode/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/KeyVux/Leetcode/tree/master/3321-type-of-triangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
