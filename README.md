@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/KeyVux/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/KeyVux/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/KeyVux/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/KeyVux/Leetcode/tree/master/3226-minimum-number-game) |
 ## Sorting
 |  |
