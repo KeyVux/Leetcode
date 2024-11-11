@@ -16,8 +16,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/KeyVux/Leetcode/tree/master/0258-add-digits) |
+| [3226-minimum-number-game](https://github.com/KeyVux/Leetcode/tree/master/3226-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/KeyVux/Leetcode/tree/master/0258-add-digits) |
+## Array
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/KeyVux/Leetcode/tree/master/3226-minimum-number-game) |
+## Sorting
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/KeyVux/Leetcode/tree/master/3226-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/KeyVux/Leetcode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
