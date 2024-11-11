@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/KeyVux/Leetcode/tree/master/0258-add-digits) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KeyVux/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/KeyVux/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/KeyVux/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/KeyVux/Leetcode/tree/master/2752-sum-multiples) |
