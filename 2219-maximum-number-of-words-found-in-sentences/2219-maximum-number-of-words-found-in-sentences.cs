@@ -4,12 +4,7 @@ public class Solution {
 
         foreach (string sentence in sentences) 
         {
-            int wordCount = sentence.Split(' ').Length;
-
-            if (wordCount > maxWords) 
-            {
-                maxWords = wordCount;
-            }
+            maxWords = Math.Max(maxWords, sentence.Split(' ').Length);
         }
 
         return maxWords; 
