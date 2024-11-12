@@ -4,19 +4,20 @@ public class Solution {
         {
             return "equilateral";
         }
-        if (nums[0] + nums[1] > nums [2]
+        if (!(nums[0] + nums[1] > nums [2]
             && nums[1] + nums[2] > nums [0]
             && nums[2] + nums[0] > nums [1]
-        )
+        ))
         {
-            if (nums[0] == nums[1] || nums[0] == nums[2] || nums[1] == nums[2])
-            {
-                return "isosceles";
-            }
-
-            return "scalene";
+            return "none";
         }
         
-        return "none";
+        if (nums[0] == nums[1] || nums[0] == nums[2] || nums[1] == nums[2])
+        {
+            return "isosceles";
+        }
+
+        return "scalene";
+        
     }
 }
