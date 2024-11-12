@@ -3,20 +3,20 @@ public class Solution {
         
         //return s.ToLower();
         
-        StringBuilder resultString = new StringBuilder();
+        List<char> resultString = new List<char>{};
 
         for (int sIndex = 0; sIndex < s.Length; sIndex++)
         {
             char charIndex = s[sIndex];
             if (charIndex >= 'A' && charIndex <= 'Z')
             {
-                resultString.Append((char)(charIndex + 32));
+                resultString.Add((char)(charIndex + 32));
             }
             else
             {
-                resultString.Append(charIndex);
+                resultString.Add(charIndex);
             }
         }
-        return resultString.ToString();
+        return new string(resultString.ToArray());
     }
 }
