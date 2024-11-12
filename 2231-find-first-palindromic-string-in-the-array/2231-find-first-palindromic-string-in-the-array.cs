@@ -8,19 +8,18 @@ public class Solution {
             }
         }
         return "";
-
-        bool check(string s)
+    }
+    public bool check(string s)
+    {
+        int reverseIndex = s.Length - 1;
+        for (int index = 0; index < reverseIndex; index++)
         {
-            int reverseIndex = s.Length - 1;
-            for (int index = 0; index < reverseIndex; index++)
+            if (s[index] != s[reverseIndex])
             {
-                if (s[index] != s[reverseIndex])
-                {
-                    return false;
-                }
-                reverseIndex--;
+                return false;
             }
-            return true;
+            reverseIndex--;
         }
+        return true;
     }
 }
